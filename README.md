@@ -26,3 +26,30 @@ gantt
     section Publish
     Release                :         release1, after review2, 1d
 ```
+
+
+## Ideas
+
+- [ ] 123 sadf
+- [ ] 123 sadf
+
+
+## Cards 1
+
+- [ ] 1231 @{2025-08-13}
+- [ ] 2131
+
+
+## Cards 2
+
+- [ ] 213
+- [ ] 434
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
+```
+%%
